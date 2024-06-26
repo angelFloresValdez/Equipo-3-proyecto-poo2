@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KxCalzo/6FY4ndeIDxDY2SzP1nPI0gC4JzphSaJXcm1TcicBFdSi6oxGDIoAdaiEvFoqXCKJoMgQZbRkCTugKA==",
+  "dgSpecHash": "ZjU3ww5DqyHsDu050dETm27uzn8HpBsSmzoEdJ88GcoMb3RamjCuyAmT9xuNRqs7TnEbxZF4AkidomvHuESsLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Angel Flores\\Downloads\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
+  "projectFilePath": "C:\\Users\\Angel Flores\\Desktop\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Angel Flores\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Angel Flores\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,6 +1,3 @@
-@{
-    ViewData["Title"] = "Contacto";
-}
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -70,9 +67,6 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             width: 45%; /* Ajusta el ancho de las secciones */
             text-align: left;
-        }
-
-        .contact-info {
             margin-right: 30px; /* Espacio entre las secciones */
         }
 
@@ -142,22 +136,9 @@
         .btn:hover {
             background-color: #0069d9;
         }
-
-        media only screen and (max-width: 768px) {
-            .contact-info,
-            .contact-form {
-                width: 100%;
-                margin-bottom: 30px;
-            }
-            .contact-info {
-                margin-right: 0;
-            }
-        }
     </style>
 </head>
 <body>
- 
-
     <div class="contact-section">
         <div class="container">
             <div class="contact-info">
@@ -182,25 +163,8 @@
                 </div>
             </div>
             <div class="contact-form">
-                <form>
-                    <div class="form-group">
-                        <label for="nombre">Escribe tu nombre</label>
-                        <input type="text" class="form-control" id="nombre" placeholder="Nombre">
-                    </div>
-                    <div class="form-group">
-                        <label for="email">Escribe tu email</label>
-                        <input type="email" class="form-control" id="email" placeholder="Email">
-                    </div>
-                    <div class="form-group">
-                        <label for="telefono">Escribe tu teléfono (Opcional)</label>
-                        <input type="tel" class="form-control" id="telefono" placeholder="Teléfono">
-                    </div>
-                    <div class="form-group">
-                        <label for="mensaje">Escribe tu mensaje</label>
-                        <textarea class="form-control" id="mensaje" rows="5" placeholder="Mensaje"></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-primary">ENVIAR MENSAJE</button>
-                </form>
+                <iframe width="100%" height="450" allowTransparency="true" frameborder="0" scrolling="si" style="border:none" src="https://www.emailmeform.com/builder/embed/4huCd2fl68jTmL8Q9" allow="camera"><a href="https://www.emailmeform.com/builder/embed/4huCd2fl68jTmL8Q9">Fill out form.</a></iframe>
+                <div style="margin-top:18px;text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?bWFzdGVy" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="https://www.emailmeform.com/" target="_blank"><font face="Verdana" size="2" color="#000000">Free Form Builder</font></a></div></div>
             </div>
         </div>
     </div>

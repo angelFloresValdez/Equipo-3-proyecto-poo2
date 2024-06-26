@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angel Flores\\Downloads\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
+      "projectUniqueName": "C:\\Users\\Angel Flores\\Desktop\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
       "projectName": "ProyectoFinalPOO2",
-      "projectPath": "C:\\Users\\Angel Flores\\Downloads\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
+      "projectPath": "C:\\Users\\Angel Flores\\Desktop\\Proyecto-POO2-main\\ProyectoFinalPOO2\\ProyectoFinalPOO2.csproj",
       "packagesPath": "C:\\Users\\Angel Flores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angel Flores\\Downloads\\Proyecto-POO2-main\\ProyectoFinalPOO2\\obj\\",
+      "outputPath": "C:\\Users\\Angel Flores\\Desktop\\Proyecto-POO2-main\\ProyectoFinalPOO2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angel Flores\\AppData\\Roaming\\NuGet\\NuGet.Config"
